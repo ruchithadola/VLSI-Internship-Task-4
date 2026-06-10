@@ -33,7 +33,7 @@ This repository contains the submission for Task 4 of the VLSI Design Internship
 
 ### Simulation Results
 
-* fsm_simulation.png
+* Simulation_results_task4
 
 ### Tools Used
 
